@@ -62,7 +62,7 @@ public class Sketch extends PApplet {
   * @param intColor2 Color of G (from 0 - 255)
   * @param intColor3 Color of B (from 0 - 255)
   * @param intSize Size of the cat
-  * @return 
+  * @return X coordinate of cat face
   */
   
   public int drawCatTwo(int intX, int intY, int intColor1, int intColor2, int intColor3, int intSize){

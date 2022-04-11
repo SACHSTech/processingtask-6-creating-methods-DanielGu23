@@ -2,11 +2,10 @@ import processing.core.PApplet;
 
 public class Sketch extends PApplet {
 	
-	
-   /**
-   * A program Sketch.java that sketches out a cat based on the parameters in the method.
-   * @author: D. Gu 
-   */
+  /**
+  * A program Sketch.java that sketches out a cat based on the parameters in the method.
+  * @author: D. Gu 
+  */
   
   public void settings(){
     // Size of sketchpad
